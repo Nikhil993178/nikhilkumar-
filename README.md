@@ -7,7 +7,7 @@ Nikhil kumar
 Age:- 
 17 yrs
 Educational Qualification:-
-preparing B.Tech CSE
+preparing B.Tech CSE.
 Address:- 
 karsar,buxar(bihar)
 My introduction:- 
