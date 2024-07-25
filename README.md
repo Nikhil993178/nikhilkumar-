@@ -23,7 +23,8 @@ I'm nikhil Kumar. I'm preparing CSE student in Guru Nanak Dev engineering colleg
 | chemistry |100 | 79 |
 | hindi | 100 | 86 |
 | english | 100 | 77 |
-# intrest:- •cricket 🏏•kabbadi •running 
+# intrest:-
+•cricket 🏏•kabbadi •coding 
 # Excel certificate:-
 
 ![Screenshot_20240725-105843](https://github.com/user-attachments/assets/2a654df0-a5c9-4c72-8ca1-fc88386dbbd3)
