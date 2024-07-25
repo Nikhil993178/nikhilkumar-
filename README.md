@@ -30,6 +30,7 @@ Class 12th Details:-
 | english | 100 | 77 |
 intrest:- 
 •cricket 🏏•kabbadi •running 
-Excel certificate:-
+# Excel certificate:-
+
 
 
