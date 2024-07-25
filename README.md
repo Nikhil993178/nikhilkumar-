@@ -15,19 +15,19 @@ I'm nikhil Kumar. I'm preparing CSE student in Guru Nanak Dev engineering colleg
 Class 10th Detail :-
 | subject | total marks | obtained marks |
 | --- | --- | --- |
-math|100|80
-science|100|84
-social science|100|86
-hindi|100|91
-English|100|80
+| math | 100 | 80 |
+| science |100 | 84 |
+| social science | 100 | 86 |
+| hindi | 100 | 91 |
+| English | 100 | 80 |
 Class 12th Details:-
 | subject | total marks | obtained marks |
 | --- | --- | --- |
-math|100|96
-physics|100|85
-chemistry|100|79
-hindi|100|86
-english|100|77
+| math | 100 | 96 |
+| physics | 100 | 85 |
+| chemistry |100 | 79 |
+| hindi | 100 | 86 |
+| english | 100 | 77 |
 intrest:- 
 •cricket 🏏•kabbadi •running 
 Excel certificate:-
