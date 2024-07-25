@@ -1,10 +1,12 @@
 # nikhilkumar-
 # profile:- Nikhil kumar
-# personal information:-Name:- Nikhil kumar
+# personal information:-
+# Name:- Nikhil kumar
 # Age:- 17 yrs
 # Educational Qualification:-preparing B.Tech CSE.
 # Address:- karsar,buxar(bihar)
-# My introduction:- I'm nikhil Kumar. I'm preparing CSE student in Guru Nanak Dev engineering college gill park road, Ludhiana . I passed my 12th from S.B college. I love to play cricket 🏏 
+# My introduction:- 
+I'm nikhil Kumar. I'm preparing CSE student in Guru Nanak Dev engineering college gill park road, Ludhiana . I passed my 12th from S.B college. I love to play cricket 🏏 
 # Class 10th Details :-
 | subject | total marks | obtained marks |
 | --- | --- | --- |
