@@ -5,7 +5,7 @@
 # Educational Qualification:-preparing B.Tech CSE.
 # Address:- karsar,buxar(bihar)
 # My introduction:- I'm nikhil Kumar. I'm preparing CSE student in Guru Nanak Dev engineering college gill park road, Ludhiana . I passed my 12th from S.B college. I love to play cricket 🏏 
-Class 10th Detail :-
+# Class 10th Details :-
 | subject | total marks | obtained marks |
 | --- | --- | --- |
 | math | 100 | 80 |
@@ -13,7 +13,7 @@ Class 10th Detail :-
 | social science | 100 | 86 |
 | hindi | 100 | 91 |
 | English | 100 | 80 |
-Class 12th Details:-
+# Class 12th Details:-
 | subject | total marks | obtained marks |
 | --- | --- | --- |
 | math | 100 | 96 |
