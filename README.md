@@ -24,7 +24,7 @@ I'm nikhil Kumar. I'm preparing CSE student in Guru Nanak Dev engineering colleg
 | Hindi | 100 | 86 |
 | English | 100 | 77 |
 # intrest:-
-•cricket 🏏•kabbadi •coding 
+•cricket 🏏•kabaddi •coding 
 # Excel certificate:-
 
 ![Screenshot_20240725-105843](https://github.com/user-attachments/assets/2a654df0-a5c9-4c72-8ca1-fc88386dbbd3)
